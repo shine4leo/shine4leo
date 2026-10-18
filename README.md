@@ -7,16 +7,16 @@
 
 ## 关于我 / About Me
 
-🎓 普本9硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[写清楚了，HR真别卡我了，🥺🥺🙏]  
+🎓 普本9硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[写清楚了，尊敬的中国HR美女们，高抬贵👋啦～]  
 💻 A first-year master's student in a computer-related program at the University of Electronic Science and Technology of China.
 
 我喜欢 Coding，也相信 AI 时代同时存在巨大的机遇与挑战。  
 I enjoy coding and believe the AI era brings both enormous opportunities and meaningful challenges.
 
-很久没有认真维护 GitHub 了，过去做过不少项目，却没有及时迁移和整理。后来在投递简历时，我发现这些经历很难被直观地展示出来。  
+很久没有认真维护 GitHub 了，过去做过不少项目，却没有及时迁移和整理。后来在投递简历时，我发现这些经历很难被直观地展示出来。[也会二开一些自己喜欢的项目]
 I hadn't actively maintained my GitHub for quite a while. Many projects I worked on were never properly migrated or organized, which made them difficult to showcase clearly when applying for jobs.
 
-因此，我决定从现在开始逐步迁移和沉淀自己的项目、学习记录与思考，也会坚持更新 GitHub，努力续上这份“火花” 🔥🤣  
+因此，我决定从现在开始逐步迁移和沉淀自己的项目、学习记录与思考，也会坚持更新 GitHub，努力续上这份“火花” 🔥🤣 
 So, I decided to gradually migrate and document my projects, learning notes, and thoughts here. I will also try to stay consistent and keep the streak alive 🔥🤣
 
 ## 兴趣方向 / Interests
@@ -71,3 +71,5 @@ I tend to explore many different fields, so you'll probably find a wide range of
 If you're interested in technology, AI, quant, security, or building something interesting together, feel free to reach out!
 
 📫 Email: `lzx0xf1@gmail.com`
+
+写给2026年10-18日的自己：也许大环境下的焦虑遮盖不了自己的空虚，但是当下不断的学习和记录一定可以被未来的自己和伯乐看到～
