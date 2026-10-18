@@ -1,4 +1,4 @@
-# Hi there, I'm shine4leo 👋
+# Hi there, I'm Leo 👋
 
 > 在代码、AI 与真实世界的交叉点持续探索。  
 > Exploring at the intersection of code, AI, and the real world.
@@ -7,7 +7,7 @@
 
 ## 关于我 / About Me
 
-🎓 普通本科，目前就读于电子科技大学计算机相关专业硕士一年级。[写清楚了，HR真别卡我了，🥺🥺🙏]  
+🎓 普本9硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[写清楚了，HR真别卡我了，🥺🥺🙏]  
 💻 A first-year master's student in a computer-related program at the University of Electronic Science and Technology of China.
 
 我喜欢 Coding，也相信 AI 时代同时存在巨大的机遇与挑战。  
