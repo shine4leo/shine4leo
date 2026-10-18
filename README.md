@@ -68,4 +68,4 @@ I tend to explore many different fields, so you'll probably find a wide range of
 如果你也对技术、AI、量化、安全或有趣的项目感兴趣，欢迎交流、一起做点东西！  
 If you're interested in technology, AI, quant, security, or building something interesting together, feel free to reach out!
 
-📫 Email: `替换成你的邮箱`
+📫 Email: `lzx0xf1@gmail.com`
