@@ -2,7 +2,8 @@
 
 > 在代码、AI 与真实世界的交叉点持续探索。  
 > Exploring at the intersection of code, AI, and the real world.
->  🟡 **求职方向：** Quant Development / Agent Development / Security
+
+🟡 **求职方向：** Quant Development / Agent Development / Security
 
 ## 关于我 / About Me
 
