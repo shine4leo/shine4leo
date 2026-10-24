@@ -3,12 +3,11 @@
 > 在代码、AI 与真实世界的交叉点持续探索。  
 > Exploring at the intersection of code, AI, and the real world.
 
-🟡 **求职方向：** Quant Development / Agent Development / Security
+🟡 **求职方向：** Quant Development / Back-end Development / Agent Development / Security<red-team> / 
 
 ## 关于我 / About Me
 
-🎓 普本9硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[写清楚了，尊敬的中国HR美女们，高抬贵👋啦～]  
-💻 A first-year master's student in a computer-related program at the University of Electronic Science and Technology of China.
+🎓 普本，995硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[写清楚了，尊敬的中国HR美女们，高抬贵👋啦～]  
 
 我喜欢 Coding，也相信 AI 时代同时存在巨大的机遇与挑战。  
 I enjoy coding and believe the AI era brings both enormous opportunities and meaningful challenges.
@@ -33,7 +32,6 @@ My current career interests lean toward Quant Development, Agent Development, an
 ## 竞赛经历 / Competition Journey
 
 🏆 竞赛几乎贯穿了我的本科阶段。因为比赛，我曾前往全国二十多个城市，也收获了许多难忘的经历与朋友。  
-Competitions were a defining part of my undergraduate years. They took me to more than twenty cities across China and brought me many unforgettable experiences and friends.
 
 在网络空间安全竞赛中，我获得过多项国家级奖项：  
 In cybersecurity competitions, I received several national-level awards:
