@@ -5,6 +5,7 @@
 Exploring at the intersection of code, AI, and the real world.
 
 🟡 求职方向： Quant Development / Back-end Development / Agent Development / Security< dev or read-team> /
+
 🟡 求职方向： 量化开发 / 后端开发 / 智能体开发 / 安全开发-安全红队 /
 
 🎓 普本，985硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[正在寻找实习机会]
