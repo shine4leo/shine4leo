@@ -1,5 +1,7 @@
 # Hi there, I'm Leo🦁 👋
+
 💻 Code × AI × Real World 🌍
+
 Exploring at the intersection of code, AI, and the real world.
 🟡 求职方向： Quant Development / Back-end Development / Agent Development / Security< dev or read-team> /
 
