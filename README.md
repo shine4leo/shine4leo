@@ -3,6 +3,7 @@
 💻 Code × AI × Real World 🌍
 
 Exploring at the intersection of code, AI, and the real world.
+
 🟡 求职方向： Quant Development / Back-end Development / Agent Development / Security< dev or read-team> /
 
 🎓 普本，985硕，目前就读于电子科技大学计算机相关专业硕士一年级<学硕>。[正在寻找实习🀄️]
