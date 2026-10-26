@@ -20,7 +20,7 @@ Exploring at the intersection of code, AI, and the real world.
 
 🏆 竞赛几乎贯穿了我的本科阶段。因为比赛，我曾前往全国二十多个城市，也收获了许多难忘的经历与朋友。
 
-在网络空间安全竞赛中，我获得过多项国家级奖项：
+在网络空间安全竞赛中，我获得过多项国家级奖项：[战绩可查～]
 - 🥇 国家一等奖 5 项
 - 🥈 国家二等奖 1 项 
 - 🏅 省部级奖项 20 余项
@@ -48,6 +48,7 @@ I tend to explore many different fields, so you'll probably find a wide range of
 🤝 Open to: Internships · Open Source Collaboration · Research · Interesting Projects
 
 ✨ Stay curious. Stay ambitious. Trust the process.
+在你没有成功之前，没有人愿意听你的故事。如果未来遇到伯乐，兴许一次次commit才是分享的最好方式～
 — Leo, October 18, 2026
 
 
