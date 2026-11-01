@@ -24,8 +24,9 @@ Exploring at the intersection of code, AI, and the real world.
 - 🥇 国家一等奖 5 项
 - 🥈 国家二等奖 1 项 
 - 🏅 省部级奖项 20 余项
-
-从 网络安全 出发，现在正在向开发与工程实践转型。
+- 微信小程序的业务 挖到了200+个漏洞
+- 开源路由器项目 bird/frr的 issue/pr提供者
+- eduSRC 证书 上海交大/浙江大学
 
 I tend to explore many different fields, so you'll probably find a wide range of things here 🤣
 
