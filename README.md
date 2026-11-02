@@ -50,7 +50,9 @@ I tend to explore many different fields, so you'll probably find a wide range of
 
 ✨ Stay curious. Stay ambitious. Trust the process.
 
-在你没有成功之前，没有人愿意听你的故事。如果未来遇到伯乐，兴许一次次commit才是分享的最好方式～
+在你没有成功之前，没有人愿意听你的故事。
+
+如果未来遇到伯乐，兴许一次次commit才是分享的最好方式～
 
 wish u have a good day～
 
