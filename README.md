@@ -1,6 +1,6 @@
 # Hi there, I'm Leo🦁 👋
 
-💻 Code × AI × Real World 🌍
+💻 Code * AI * Investment 🌍
 
 Exploring at the intersection of code, AI, and the real world.
 
