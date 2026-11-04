@@ -2,8 +2,6 @@
 
 💻 Code * AI * Investment 🌍
 
-Exploring at the intersection of code, AI, and the real world.
-
 🟡 求职方向： Quant Development / Back-end Development / Agent Development / Security< dev or read-team> /
 
 🟡 求职方向： 量化开发 / 后端开发 / 智能体开发 / 安全开发-安全红队 /
@@ -16,9 +14,10 @@ Exploring at the intersection of code, AI, and the real world.
 - 📈 Quant Development / 量化开发[高频开发]
 - 🤖 Agent Development AI Research & Engineering / 智能体开发 AI 研究与工程实践
 - 🛡️ Security / 网络安全
+- 💰 金融财报研报框架的复现和研读
 - 🧠 等待发现...
 
-🏆 竞赛几乎贯穿了我的本科阶段。因为比赛，我曾前往全国二十多个城市，也收获了许多难忘的经历与朋友。
+🏆 高含金量竞赛几乎贯穿了我的本科阶段。因为比赛，我曾前往全国二十多个城市，也收获了许多难忘的经历与朋友。
 
 在网络空间安全竞赛中，我获得过多项国家级奖项：[战绩可查,hr需要的话我可以拉你到私人仓库]
 - 🥇 国家一等奖 5 项
@@ -35,6 +34,7 @@ I tend to explore many different fields, so you'll probably find a wide range of
 - 🛡️ 网络安全与威胁情报 / Cybersecurity 
 - 📚 前沿论文阅读与科研笔记 / Research papers and technical notes
 - 💻 项目代码与工程实践 / Projects and engineering experiments
+- 💰 优秀研报的记录与金融工程金融工具的开发/（高频底层的优化）
 - 📝 一些日常记录与思考&&书籍推荐 / Daily notes and reflections
 
 
